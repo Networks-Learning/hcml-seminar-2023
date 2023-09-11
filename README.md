@@ -44,14 +44,14 @@ also expect that you posses fundamental knowledge of computer science.
 Send an email to <thejaswi@mpi-sws.org> with your name, matriculation number
 with CV and transcripts as attachments.
 
-Note: include "Registration: Human-centric machine learning seminar (Winter
-2023)" in the subject line.
-
 There are a limited number of research topics available, so our registrations
 are also limited. The final list of accepted registrations will be posted here:
 https://tinyurl.com/hcml-2023-registrations
 
-Deadline: 
+Deadline: TBA
+
+Note: include "Registration: Human-centric machine learning seminar (Winter
+2023)" in the subject line.
 
 ## Topic selection
 
@@ -59,17 +59,19 @@ After your registration is successfully accepted, send an email to
 <thejaswi@mpi-sws.org> with your preferred ranking for all the available topics.
 You must include all the topics as well as their corresponding ranks.
 
+Deadline: TBA
+
 Note: include "Topic selection: Human-centric machine learning seminar (Winter
 2023)" in the subject line.
 
-Deadline: 
+## Presentation schedule
+
+The details will be made available after registration and topic selections.
 
 ## Schedule and location:
 
  - Kickoff meeting: 23-10-2023 Monday, 15:00 - 16:00
  - Location: Building G26, Room 112.
- - Date and time: 3-4 dates during the Winter Semester. The schedule will be
-   made available.
 
 ## Instructors
 
