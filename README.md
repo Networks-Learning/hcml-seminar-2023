@@ -8,6 +8,15 @@ both theoretical foundations, applications as well as empirical studies.
 
 The seminar course is open for both Bachelor and Master students.
 
+Important dates:
+
+- Kickoff meeting: 23-10-2023 Monday, 15:00 - 16:00
+- Topic selection: TBA
+
+Note: If you have any questions about the seminar, feel free to drop an email to
+one of the instructors.
+
+
 ## Course work
 
 As a student, you are expected to read a few research articles in one of the
@@ -20,29 +29,12 @@ The presentations will be scheduled for 3-4 dates during the Winter semester. As
 a student, you are expected to attend all the presentations and actively
 engage in discussions.
 
-Important dates:
-
-- Kickoff meeting: 23-10-2023 Monday, 15:00 - 16:00
-- Topic selection: TBA
-
-Note: If you have any questions about the seminar, feel free to drop an email to
-one of the instructors.
-
 ## Available topics
-
-The available topics are the following:
-
- - Interpretable Machine Learning
- - Bias and Fairness
- - Strategic Machine Learning
- - Causality in Machine Learning
- - Distribution-Free Uncertainty Quantification
- - Human Machine Collaboration
  
-A list of suggested papers for each topic can be found here:
-https://tinyurl.com/hcml-seminar-2023 
+A list of available topics and list of suggested papers will be made available
+shortly here: https://tinyurl.com/hcml-seminar-2023 
 
-## Prerequisites for the seminar
+## Prerequisites
 
 You should have successfully finished a machine learning course, and we
 also expect that you posses fundamental knowledge of computer science.
@@ -59,6 +51,8 @@ There are a limited number of research topics available, so our registrations
 are also limited. The final list of accepted registrations will be posted here:
 https://tinyurl.com/hcml-2023-registrations
 
+Deadline: 
+
 ## Topic selection
 
 After your registration is successfully accepted, send an email to
@@ -67,6 +61,8 @@ You must include all the topics as well as their corresponding ranks.
 
 Note: include "Topic selection: Human-centric machine learning seminar (Winter
 2023)" in the subject line.
+
+Deadline: 
 
 ## Schedule and location:
 
