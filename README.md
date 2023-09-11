@@ -17,7 +17,7 @@ more information in the "Available Topics" section below. To help with your
 presentation, an instructor will be assigned to supervise and provide advise.
 
 The presentations will be scheduled for 3-4 dates during the Winter semester. As
-a student, you are expected to attend all of the presentations and actively
+a student, you are expected to attend all the presentations and actively
 engage in discussions.
 
 Important dates:
