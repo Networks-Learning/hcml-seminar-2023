@@ -11,11 +11,11 @@ The seminar course is open for both Bachelor and Master students.
 Important dates:
 
 - Kickoff meeting: 23-10-2023 Monday, 15:00 - 16:00
+- Registration: TBA
 - Topic selection: TBA
 
 Note: If you have any questions about the seminar, feel free to drop an email to
 one of the instructors.
-
 
 ## Course work
 
@@ -41,7 +41,7 @@ also expect that you posses fundamental knowledge of computer science.
 
 ## Registration
 
-Send an email to <thejaswi@mpi-sws.org> with your name, matriculation number
+Send an email to xxx@mpi-sws.org with your name, matriculation number
 with CV and transcripts as attachments.
 
 There are a limited number of research topics available, so our registrations
@@ -56,7 +56,7 @@ Note: include "Registration: Human-centric machine learning seminar (Winter
 ## Topic selection
 
 After your registration is successfully accepted, send an email to
-<thejaswi@mpi-sws.org> with your preferred ranking for all the available topics.
+xxx@mpi-sws.org with your preferred ranking for all the available topics.
 You must include all the topics as well as their corresponding ranks.
 
 Deadline: TBA
@@ -66,9 +66,9 @@ Note: include "Topic selection: Human-centric machine learning seminar (Winter
 
 ## Presentation schedule
 
-The details will be made available after registration and topic selections.
+The details will be made available after registration and topic selection.
 
-## Schedule and location:
+## Location:
 
  - Kickoff meeting: 23-10-2023 Monday, 15:00 - 16:00
  - Location: Building G26, Room 112.
@@ -81,7 +81,3 @@ The details will be made available after registration and topic selections.
 - Eleni Straitouri (estraitouri@mpi-sws.org)
 - Suhas Thejaswi (thejaswi@mpi-sws.org)
 - Stratis Tsirtsis (stsirtsis@mpi-sws.org)
-
-## Presentation dates
-
-To be scheduled.
