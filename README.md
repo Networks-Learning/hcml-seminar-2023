@@ -6,7 +6,7 @@ societal aspects of machine learning (fairness, accountability, transparency),
 human-ai collaboration, strategic behavior and causality. The papers will cover
 both theoretical foundations, applications as well as empirical studies.
 
-The seminar course is open for both Bachelor and Master students.
+The seminar course is open for Master students.
 
 Important dates:
 
@@ -36,8 +36,7 @@ shortly here: https://tinyurl.com/hcml-seminar-2023
 
 ## Prerequisites
 
-You should have successfully finished a machine learning course, and we
-also expect that you posses fundamental knowledge of computer science.
+TBA
 
 ## Registration
 
