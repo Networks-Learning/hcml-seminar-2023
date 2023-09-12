@@ -15,6 +15,7 @@ Important dates:
 - Acceptance notification: 11-10-2023
 - Topic selection: TBA
 
+
 Note: If you have any questions about the seminar, feel free to drop an email to
 one of the instructors.
 
