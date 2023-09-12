@@ -10,10 +10,11 @@ The seminar course is open for Master students.
 
 Important dates:
 
-- Kickoff meeting: 23-10-2023 Monday, 15:00 - 16:00
-- Registration: TBA
+- Kickoff meeting: 04-10-2023 Wednesday, 15:00 - 16:00
+- Registration deadline: 09-10-2023
+- Acceptance notification: 11-10-2023
 - Topic selection: TBA
-
+´˙
 Note: If you have any questions about the seminar, feel free to drop an email to
 one of the instructors.
 
@@ -36,12 +37,12 @@ shortly here: https://tinyurl.com/hcml-seminar-2023
 
 ## Prerequisites
 
-TBA
+You are expected to be familiar with the fundamentals of Machine Learning. Only those students who have already passed one of the fundamental Machine Learning courses during the course of their master studies will be accepted to the seminar. We ask you to send us your transcripts when registering.
 
 ## Registration
 
 Send an email to xxx@mpi-sws.org with your name, matriculation number
-with CV and transcripts as attachments.
+and transcripts as attachments.
 
 There are a limited number of research topics available, so our registrations
 are also limited. The final list of accepted registrations will be posted here:
@@ -58,7 +59,7 @@ After your registration is successfully accepted, send an email to
 xxx@mpi-sws.org with your preferred ranking for all the available topics.
 You must include all the topics as well as their corresponding ranks.
 
-Deadline: TBA
+Deadline: 09-10-2023
 
 Note: include "Topic selection: Human-centric machine learning seminar (Winter
 2023)" in the subject line.
@@ -69,7 +70,7 @@ The details will be made available after registration and topic selection.
 
 ## Location:
 
- - Kickoff meeting: 23-10-2023 Monday, 15:00 - 16:00
+ - Kickoff meeting: 04-10-2023 Wednesday, 15:00 - 16:00
  - Location: Building G26, Room 112.
 
 ## Instructors
