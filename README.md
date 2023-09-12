@@ -60,7 +60,7 @@ After your registration is successfully accepted, send an email to
 xxx@mpi-sws.org with your preferred ranking for all the available topics.
 You must include all the topics as well as their corresponding ranks.
 
-Deadline: 09-10-2023
+Deadline: TBA
 
 Note: include "Topic selection: Human-centric machine learning seminar (Winter
 2023)" in the subject line.
