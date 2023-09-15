@@ -42,7 +42,7 @@ You are expected to be familiar with the fundamentals of Machine Learning. Only 
 
 ## Registration
 
-Send an email to xxx@mpi-sws.org with your name, matriculation number
+Send an email to thejaswi@mpi-sws.org with your name, matriculation number
 and transcripts as attachments.
 
 There are a limited number of research topics available, so our registrations
@@ -80,5 +80,5 @@ The details will be made available after registration and topic selection.
 - Nina Corvelo Benz (ninacobe@mpi-sws.org)
 - Nastaran Okati (nastaran@mpi-sws.org)
 - Eleni Straitouri (estraitouri@mpi-sws.org)
-- Suhas Thejaswi (thejaswi@mpi-sws.org)
+- Dr. Suhas Thejaswi (thejaswi@mpi-sws.org)
 - Stratis Tsirtsis (stsirtsis@mpi-sws.org)
