@@ -42,8 +42,9 @@ You are expected to be familiar with the fundamentals of Machine Learning. Only 
 
 ## Registration
 
-Send an email to thejaswi@mpi-sws.org with your name, matriculation number
-and transcripts as attachments.
+Fill out this form: https://forms.gle/hEZsnAimTed6Wxnx5
+
+You are required to enter your name, email address, student number and the list of the courses from the "intelligent systems" specialization that you have already passed, along with your obtained grade. We consider you fit for the seminar if you are a master's student and have passed courses about the fundamentals of machine learning with a satisfactory grade.
 
 There are a limited number of research topics available, so our registrations
 are also limited. The final list of accepted registrations will be posted here:
