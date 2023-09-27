@@ -54,9 +54,6 @@ Deadline: 09-10-2023
 
 Acceptance notification for the course will be sent on 11-10-2023.
 
-Note: include "Registration: Human-centric machine learning seminar (Winter
-2023)" in the subject line.
-
 ## Topic selection
 
 After your registration is successfully accepted, send an email to
@@ -64,9 +61,6 @@ xxx@mpi-sws.org with your preferred ranking for all the available topics.
 You must include all the topics as well as their corresponding ranks.
 
 Deadline: TBA
-
-Note: include "Topic selection: Human-centric machine learning seminar (Winter
-2023)" in the subject line.
 
 ## Presentation schedule
 
