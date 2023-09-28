@@ -10,9 +10,9 @@ The seminar course is open for Master students.
 
 Important dates:
 
-- Kickoff meeting: 04-10-2023 Wednesday, 15:00 - 16:00
-- Registration deadline: 09-10-2023
-- Acceptance notification: 11-10-2023
+- Kickoff meeting: 23-10-2023 Wednesday, 15:00 - 16:00
+- Registration deadline: 30-10-2023
+- Acceptance notification: 02-11-2023
 - Topic selection: TBA
 
 
