@@ -50,9 +50,9 @@ There are a limited number of research topics available, so our registrations
 are also limited. The final list of accepted registrations will be posted here:
 https://tinyurl.com/hcml-2023-registrations
 
-Deadline: 09-10-2023
+Deadline: 30-10-2023
 
-Acceptance notification for the course will be sent on 11-10-2023.
+Acceptance notification for the course will be sent on 02-11-2023
 
 ## Topic selection
 
