@@ -69,7 +69,7 @@ The details will be made available after registration and topic selection.
 ## Location:
 
  - Kickoff meeting: 23-10-2023 Wednesday, 15:00 - 16:00
- - Location: Building G26, Room 112.
+ - Location: Building G26, Room 111.
 
 ## Instructors
 
