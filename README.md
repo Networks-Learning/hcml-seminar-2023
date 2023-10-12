@@ -10,7 +10,7 @@ The seminar course is open for Master students.
 
 Important dates:
 
-- Kickoff meeting: 23-10-2023 Wednesday, 15:00 - 16:00
+- Kickoff meeting: 23-10-2023 Monday, 15:00 - 16:00
 - Registration deadline: 30-10-2023
 - Acceptance notification: 02-11-2023
 - Topic selection: TBA
@@ -68,7 +68,7 @@ The details will be made available after registration and topic selection.
 
 ## Location:
 
- - Kickoff meeting: 23-10-2023 Wednesday, 15:00 - 16:00
+ - Kickoff meeting: 23-10-2023 Monday, 15:00 - 16:00
  - Location: Building G26, Room 111.
 
 ## Instructors
