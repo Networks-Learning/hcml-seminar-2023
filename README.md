@@ -31,8 +31,8 @@ the presentations and actively engage in discussions.
 
 ## Available topics
  
-A list of available topics and list of suggested papers will be made available
-shortly here: https://tinyurl.com/hcml-seminar-2023 
+A list of available topics and list of suggested papers is available
+ [here](https://docs.google.com/document/d/1bPQp6jWol-uM7C52_fhX2RIMBCPO9IU7pfKUluFQPMs/edit?usp=sharing).
 
 ## Prerequisites
 
