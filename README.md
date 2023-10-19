@@ -3,7 +3,7 @@
 The Human-Centric Machine Learning seminar course focuses on reading and presenting
 recent research articles in human-centric machine learning, with a particular emphasis in
 societal aspects of machine learning (fairness, accountability, transparency),
-human-ai collaboration, strategic behavior and causality. The papers will cover
+human-ai collaboration and and causality. The papers will cover
 both theoretical foundations, applications as well as empirical studies.
 
 The seminar course is open for Master students.
@@ -15,21 +15,19 @@ Important dates:
 - Acceptance notification: 02-11-2023
 - Topic selection: TBA
 
-
 Note: If you have any questions about the seminar, feel free to drop an email to
 one of the instructors.
 
 ## Course work
 
-As a student, you are expected to read a few research articles in one of the
-topics of human-centric machine learning and present an overview of the chosen
-topic. There are various topics available for you to choose from; you can find
-more information in the "Available Topics" section below. To help with your
-presentation, an instructor will be assigned to supervise and provide advise.
+As a student, you are expected to read and present one research paper in one of the topics of human-centric
+machine learning and ask questions during the presentation of a different paper in the same topic by another
+student. There are various topics available for you to choose from; you can find more information in the "Available Topics" 
+section below. To help with your presentation, you will do a practice presentation in front of the instructions, where they
+will give you feedback.
 
-The presentations will be scheduled for 3-4 dates during the Winter semester. As
-a student, you are expected to attend all the presentations and actively
-engage in discussions.
+The presentations will be scheduled for 3-4 dates during the Winter semester. As a student, you are expected to attend all 
+the presentations and actively engage in discussions.
 
 ## Available topics
  
