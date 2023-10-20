@@ -26,17 +26,17 @@ student. There are various topics available for you to choose from; you can find
 section below. To help with your presentation, you will do a practice presentation in front of the instructions, where they
 will give you feedback.
 
-The presentations will be scheduled for 3-4 dates during the Winter semester. As a student, you are expected to attend all 
+The presentations will be scheduled on 3-4 days during the Winter semester. As a student, you are expected to attend all 
 the presentations and actively engage in discussions.
 
 ## Available topics
  
-A list of available topics and list of suggested papers is available
+A list of available topics and papers is available
  [here](https://docs.google.com/document/d/1bPQp6jWol-uM7C52_fhX2RIMBCPO9IU7pfKUluFQPMs/edit?usp=sharing).
 
 ## Prerequisites
 
-You are expected to be familiar with the fundamentals of Machine Learning. Only those students who have already passed one of the fundamental Machine Learning courses during the course of their master studies will be accepted to the seminar. We ask you to send us your transcripts when registering.
+You are expected to be familiar with the fundamentals of Machine Learning. Only those students who have already passed one of the fundamental Machine Learning courses during the course of their master studies will be accepted to the seminar.
 
 ## Registration
 
@@ -44,7 +44,7 @@ Fill out this form: https://forms.gle/hEZsnAimTed6Wxnx5
 
 You are required to enter your name, email address, student number and the list of the courses from the "intelligent systems" specialization that you have already passed, along with your obtained grade. We consider you fit for the seminar if you are a master's student and have passed courses about the fundamentals of machine learning with a satisfactory grade.
 
-There are a limited number of research topics available, so our registrations
+There are a limited number of research topics and papers available, so our registrations
 are also limited. The final list of accepted registrations will be posted here:
 https://tinyurl.com/hcml-2023-registrations
 
