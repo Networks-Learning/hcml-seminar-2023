@@ -3,7 +3,7 @@
 The Human-Centric Machine Learning seminar course focuses on reading and presenting
 recent research articles in human-centric machine learning, with a particular emphasis in
 societal aspects of machine learning (fairness, accountability, transparency),
-human-ai collaboration and and causality. The papers will cover
+human-ai collaboration and causality. The papers will cover
 both theoretical foundations, applications as well as empirical studies.
 
 The seminar course is open for Master students.
