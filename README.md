@@ -13,7 +13,10 @@ Important dates:
 - Kickoff meeting: 23-10-2023 Monday, 15:00 - 16:00
 - Registration deadline: 30-10-2023
 - Acceptance notification: 02-11-2023
-- Topic selection: TBA
+- Topic selection: 24-11-2023
+- Paper assignment: 01-12-2023
+- Practice presentations: 08-01-2024 -- 31-01-2024
+- Final presentations: 12-02-2024 -- 29-03-2024
 
 Note: If you have any questions about the seminar, feel free to drop an email to
 one of the instructors.
@@ -45,20 +48,20 @@ Fill out this form: https://forms.gle/hEZsnAimTed6Wxnx5
 You are required to enter your name, email address, student number and the list of the courses from the "intelligent systems" specialization that you have already passed, along with your obtained grade. We consider you fit for the seminar if you are a master's student and have passed courses about the fundamentals of machine learning with a satisfactory grade.
 
 There are a limited number of research topics available, so our registrations
-are also limited. The final list of accepted registrations will be posted here:
-https://tinyurl.com/hcml-2023-registrations
+are also limited. The final list of accepted registrations will be notified via
+email.
 
 Deadline: 30-10-2023
 
-Acceptance notification for the course will be sent on 02-11-2023
+Acceptance notification for the course will be sent by email on 02-11-2023
 
 ## Topic selection
 
-After your registration is successfully accepted, send an email to
-xxx@mpi-sws.org with your preferred ranking for all the available topics.
-You must include all the topics as well as their corresponding ranks.
+After receiving an email of acceptance, please rank your preferred topics by completing this form: https://forms.gle/jFHGKL2hTD5YEhew6
 
-Deadline: TBA
+Make sure you rank all available topics based on your preferences by 24-11-2023.
+
+Assignment of papers will be notified on 01-12-2023.
 
 ## Presentation schedule
 
