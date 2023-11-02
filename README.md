@@ -3,7 +3,7 @@
 The Human-Centric Machine Learning seminar course focuses on reading and presenting
 recent research articles in human-centric machine learning, with a particular emphasis in
 societal aspects of machine learning (fairness, accountability, transparency),
-human-ai collaboration and and causality. The papers will cover
+human-ai collaboration and causality. The papers will cover
 both theoretical foundations, applications as well as empirical studies.
 
 The seminar course is open for Master students.
@@ -29,17 +29,17 @@ student. There are various topics available for you to choose from; you can find
 section below. To help with your presentation, you will do a practice presentation in front of the instructions, where they
 will give you feedback.
 
-The presentations will be scheduled for 3-4 dates during the Winter semester. As a student, you are expected to attend all 
+The presentations will be scheduled on 3-4 days during the Winter semester. As a student, you are expected to attend all 
 the presentations and actively engage in discussions.
 
 ## Available topics
  
-A list of available topics and list of suggested papers will be made available
-shortly here: https://tinyurl.com/hcml-seminar-2023 
+A list of available topics and papers is available
+ [here](https://docs.google.com/document/d/1bPQp6jWol-uM7C52_fhX2RIMBCPO9IU7pfKUluFQPMs/edit?usp=sharing).
 
 ## Prerequisites
 
-You are expected to be familiar with the fundamentals of Machine Learning. Only those students who have already passed one of the fundamental Machine Learning courses during the course of their master studies will be accepted to the seminar. We ask you to send us your transcripts when registering.
+You are expected to be familiar with the fundamentals of Machine Learning. Only those students who have already passed one of the fundamental Machine Learning courses during the course of their master studies will be accepted to the seminar.
 
 ## Registration
 
