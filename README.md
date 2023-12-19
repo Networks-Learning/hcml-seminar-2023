@@ -65,7 +65,7 @@ Assignment of papers will be notified on 01-12-2023.
 
 ## Presentation schedule
 
-The details will be made available after registration and topic selection.
+The paper assignment and presentation schedule is available [here](https://tinyurl.com/HCML-seminar-paper-assignment).
 
 ## Location:
 
